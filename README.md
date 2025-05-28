@@ -548,7 +548,7 @@ A seguir, segue algumas imagens do sistema (por segurança, algumas informaçõe
 ## 📜 Licença
 
 Este projeto está protegido sob a licença  
-**[CC BY-NC-ND 4.0 – Atribuição-NãoComercial-SemDerivações](LICENSE.md)**.
+**[CC BY-NC-ND 4.0 – Atribuição-NãoComercial-SemDerivações](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt-br)**.
 
 > 📌 Você pode visualizar, compartilhar e usar o material **sem fins comerciais**, **sem modificações** e sempre com atribuição ao autor.
 
