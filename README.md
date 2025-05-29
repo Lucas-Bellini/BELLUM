@@ -558,7 +558,7 @@ Este projeto está protegido sob a licença
 
 **Lucas Bellini**  
 Policial Militar | Especialista em Gestão de Dados e Logística Operacional  
-[🔗 LinkedIn](https://www.linkedin.com/in/Lucas-Bellini)  
+[🔗 LinkedIn](https://www.linkedin.com/in/LucasBellini)  
 📧 contato: lucas_bellini@hotmail.com.br
 
 ---
